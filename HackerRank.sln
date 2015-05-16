@@ -13,6 +13,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HelloWorldNTimes", "HelloWo
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FPListReplication", "FP List Replication\FPListReplication.fsproj", "{87FBA2CE-06EC-40D5-A048-CDF296CF8D9B}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FP Filter Array", "FP Filter Array\FP Filter Array.fsproj", "{90B3D202-F008-42BC-8491-F2109972A053}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{87FBA2CE-06EC-40D5-A048-CDF296CF8D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87FBA2CE-06EC-40D5-A048-CDF296CF8D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87FBA2CE-06EC-40D5-A048-CDF296CF8D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B3D202-F008-42BC-8491-F2109972A053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B3D202-F008-42BC-8491-F2109972A053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B3D202-F008-42BC-8491-F2109972A053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B3D202-F008-42BC-8491-F2109972A053}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,5 +50,6 @@ Global
 		{B10B4DF7-BDBD-483C-AAF9-56F7C0D1C469} = {4FDB73F7-47F7-4AC4-B5F7-2F2A1C118067}
 		{B88E0103-78F9-4199-91D0-3B17315C0184} = {4FDB73F7-47F7-4AC4-B5F7-2F2A1C118067}
 		{87FBA2CE-06EC-40D5-A048-CDF296CF8D9B} = {4FDB73F7-47F7-4AC4-B5F7-2F2A1C118067}
+		{90B3D202-F008-42BC-8491-F2109972A053} = {4FDB73F7-47F7-4AC4-B5F7-2F2A1C118067}
 	EndGlobalSection
 EndGlobal
